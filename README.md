@@ -1,6 +1,6 @@
 ### Hi there, I'm Jingwen Fan (范敬文) 👋
 
-🚀 **AI / AlLearner** specializing in **Large Language Models (LLMs)**.
+🚀 **AI / ML Learner** focusing on **Large Language Models (LLMs)**.
 
 I focus on the full lifecycle of LLMs, from **Pre-training** and **SFT** to **Alignment (RLHF)** and **Inference Optimization**.
 
