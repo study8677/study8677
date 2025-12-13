@@ -8,7 +8,9 @@ I focus on the full lifecycle of LLMs, from **Pre-training** and **SFT** to **Al
 - 🌱 I’m currently learning **Agentic Workflows, DeepSpeed & Model Quantization (AWQ/GPTQ)**
 - 🎓 Background: **Qilu University of Technology (QLUT)**
 - 🔬 Research Interests: **Reward Modeling, Context Window Extension, Chain-of-Thought (CoT)**
-- 📫 How to reach me: **867762462f@gmail.com**
+- 🎯 **Currently seeking 2026 Summer Internship opportunities (LLM / Multimodal / Agent / RLHF)**  
+📫 How to reach me: **867762462f@gmail.com**
+
 
 ---
 
