@@ -17,8 +17,7 @@ Passionate about the full LLM lifecycle from pre-training & fine‑tuning to ali
 - Currently seeking **2026 Summer Internship** opportunities (LLM / Multimodal / Agent / RLHF)
 
 ### 📟 最新文章
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [模型自进化-个人记录](https://zhuanlan.zhihu.com/p/1988242610985398761)
 
 ### 💌 联系方式
 - Email: [867762462f@gmail.com](mailto:867762462f@gmail.com)
