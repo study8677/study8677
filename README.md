@@ -23,6 +23,7 @@ Passionate about the full LLM lifecycle from pre-training &amp; fine-tuning to a
   *(LLM / Multimodal / Agent / RLHF)*
 
 ## 📟 最新文章
+- [大模型如何降低幻觉：从不可消除，到可工程化控制](https://zhuanlan.zhihu.com/p/1990168444126136073)
 -  [DreamGym：用经验合成而非真实交互，扩展大模型 Agent 的学习能力](https://zhuanlan.zhihu.com/p/1989289589911883963)
 - [我发现：大模型检索里，最划算的 Query Rewrite 不是“重写语义”，而是“只翻译”](https://zhuanlan.zhihu.com/p/1989007651019968938)
 - [模型自进化：个人记录](https://zhuanlan.zhihu.com/p/1988242610985398761)
