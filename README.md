@@ -20,8 +20,6 @@ Passionate about the full LLM lifecycle from pre-training &amp; fine-tuning to a
 ## 🎯 Goals
 
 - **Life goal:** Stay curious, be brave, and live with kindness.
-- **Near-term goal:** Join **ByteDance** or **Alibaba** and work on **LLMs** *(LLM / Multimodal / Agent / RLHF)*.
-
 
 ## 📟 最新文章
 -  [手撕MHA](https://zhuanlan.zhihu.com/p/1994838852712550501)
