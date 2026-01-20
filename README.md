@@ -22,7 +22,7 @@ Passionate about the full LLM lifecycle from pre-training &amp; fine-tuning to a
 - **Life goal:** Stay curious, be brave, and live with kindness.
 
 ## 📟 最新文章
--[把 Claude Code “拆到只剩骨架”：用最少概念，亲手实现一个可运行的 AI Agent](https://zhuanlan.zhihu.com/p/1996907534523598562)
+-  [把 Claude Code “拆到只剩骨架”：用最少概念，亲手实现一个可运行的 AI Agent](https://zhuanlan.zhihu.com/p/1996907534523598562)
 -  [手撕MHA](https://zhuanlan.zhihu.com/p/1994838852712550501)
 - [手撕selft-attention](https://zhuanlan.zhihu.com/p/1994351991137268667)
 - [Prompt 该怎么上线？一种用顶级模型“校准”，再向生产模型降级的方法- promptlint](https://zhuanlan.zhihu.com/p/1990559650135965786)
