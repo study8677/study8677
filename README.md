@@ -22,6 +22,7 @@ Passionate about the full LLM lifecycle from pre-training &amp; fine-tuning to a
 - **Life goal:** Stay curious, be brave, and live with kindness.
 
 ## 📟 最新文章
+- [通义千问3-VL三大创新点理解](https://zhuanlan.zhihu.com/p/1999493059822494413)
 - [前端服务里跑 while 式 Agent 为什么一定会堵？以及唯一正确的异步化方式（第一性原理）](https://zhuanlan.zhihu.com/p/1998863094571627207)
 -  [把 Claude Code “拆到只剩骨架”：用最少概念，亲手实现一个可运行的 AI Agent](https://zhuanlan.zhihu.com/p/1996907534523598562)
 -  [手撕MHA](https://zhuanlan.zhihu.com/p/1994838852712550501)
@@ -36,4 +37,5 @@ Passionate about the full LLM lifecycle from pre-training &amp; fine-tuning to a
 
 - **Email**: [867762462f@gmail.com](mailto:867762462f@gmail.com)
 - **Zhihu**: [二次函数](https://www.zhihu.com/people/fan-jing-wen-56-46)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=study8677)](https://github.com/anuraghazra/github-readme-stats)
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=study8677)](https://github.com/anuraghazra/github-readme-stats)
