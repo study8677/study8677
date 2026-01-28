@@ -36,3 +36,4 @@ Passionate about the full LLM lifecycle from pre-training &amp; fine-tuning to a
 
 - **Email**: [867762462f@gmail.com](mailto:867762462f@gmail.com)
 - **Zhihu**: [二次函数](https://www.zhihu.com/people/fan-jing-wen-56-46)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=study8677)](https://github.com/anuraghazra/github-readme-stats)
