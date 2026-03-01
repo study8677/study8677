@@ -22,6 +22,7 @@ Passionate about the full LLM lifecycle from pre-training &amp; fine-tuning to a
 - **Life goal:** Stay curious, be brave, and live with kindness.
 
 ## 📟 最新文章
+- [我做了一个“不爱打扰你”的 Agent：Steward，低风险事务自动推进，关键决策再找你](https://github.com/study8677/Steward)_
 - [通义千问3-VL三大创新点理解](https://zhuanlan.zhihu.com/p/1999493059822494413)
 - [前端服务里跑 while 式 Agent 为什么一定会堵？以及唯一正确的异步化方式（第一性原理）](https://zhuanlan.zhihu.com/p/1998863094571627207)
 -  [把 Claude Code “拆到只剩骨架”：用最少概念，亲手实现一个可运行的 AI Agent](https://zhuanlan.zhihu.com/p/1996907534523598562)
