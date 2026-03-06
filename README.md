@@ -22,6 +22,7 @@ Passionate about the full LLM lifecycle from pre-training &amp; fine-tuning to a
 - **Life goal:** Stay curious, be brave, and live with kindness.
 
 ## 📟 最新文章
+- [面对超大规模复杂项目，如何用codex破局（一）](https://zhuanlan.zhihu.com/p/2012646334969176684)
 - [2026 年，对于搭建智能体而言最重要绝不是选择框架，而是记忆（上下文管理）](https://zhuanlan.zhihu.com/p/2012307515518494710)
 - [我做了一个“不爱打扰你”的 Agent：Steward，低风险事务自动推进，关键决策再找你](https://github.com/study8677/Steward)_
 - [通义千问3-VL三大创新点理解](https://zhuanlan.zhihu.com/p/1999493059822494413)
