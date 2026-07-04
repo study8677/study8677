@@ -57,4 +57,6 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=study8677)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
