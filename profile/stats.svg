@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">JingWen Fan's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 3829, Total Commits  (last year) : 4565, Total PRs: 151, Total Issues: 58, Contributed to (last year): 43</desc>
+        <title id="titleId">JingWen Fan&#39;s GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 3843, Total Commits  (last year) : 4576, Total PRs: 151, Total Issues: 58, Contributed to (last year): 43</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 15.332859712939626;
+        stroke-dashoffset: 15.31084136544268;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >JingWen Fan's GitHub Stats</text>
+      >JingWen Fan&#39;s GitHub Stats</text>
     </g>
       </g>
     
