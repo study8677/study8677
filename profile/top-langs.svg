@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="109.51"
+          width="109.48"
           height="8"
           fill="#00ADD8"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="109.51"
+          x="109.48"
           y="0"
-          width="82.04"
+          width="82.09"
           height="8"
           fill="#3572A5"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="191.55"
+          x="191.57"
           y="0"
-          width="30.12"
+          width="30.11"
           height="8"
           fill="#3178c6"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="221.67000000000002"
+          x="221.68"
           y="0"
-          width="10.32"
+          width="10.31"
           height="8"
           fill="#DA5B0B"
         />
@@ -198,7 +198,7 @@
           data-testid="lang-progress"
           x="243.73"
           y="0"
-          width="13.17"
+          width="13.16"
           height="8"
           fill="#89e051"
         />
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.89999999999998"
+          x="246.89"
           y="0"
           width="13.1"
           height="8"
@@ -219,14 +219,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go 43.80%
+        Go 43.79%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 32.82%
+        Python 32.83%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
