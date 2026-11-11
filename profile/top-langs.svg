@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="108.01"
+          width="107.71"
           height="8"
           fill="#00ADD8"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="108.01"
+          x="107.71"
           y="0"
-          width="82.02"
+          width="81.78"
           height="8"
           fill="#3572A5"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="190.03"
+          x="189.49"
           y="0"
-          width="31.23"
+          width="31.81"
           height="8"
           fill="#3178c6"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="221.26"
+          x="221.3"
           y="0"
-          width="10.18"
+          width="10.15"
           height="8"
           fill="#DA5B0B"
         />
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.44"
+          x="231.45000000000002"
           y="0"
-          width="16.61"
+          width="16.59"
           height="8"
           fill="#dea584"
         />
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.05"
+          x="238.04000000000002"
           y="0"
-          width="14.99"
+          width="15.01"
           height="8"
           fill="#f1e05a"
         />
@@ -196,9 +196,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.04000000000002"
+          x="243.05"
           y="0"
-          width="13.85"
+          width="13.84"
           height="8"
           fill="#e16737"
         />
@@ -208,7 +208,7 @@
           data-testid="lang-progress"
           x="246.89000000000001"
           y="0"
-          width="13.120000000000001"
+          width="13.11"
           height="8"
           fill="#89e051"
         />
@@ -219,28 +219,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go 43.21%
+        Go 43.08%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 32.81%
+        Python 32.71%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 12.49%
+        TypeScript 12.73%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 4.07%
+        Jupyter Notebook 4.06%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
@@ -254,14 +254,14 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 1.99%
+        JavaScript 2.00%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#e16737" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        MATLAB 1.54%
+        MATLAB 1.53%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
