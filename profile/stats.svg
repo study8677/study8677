@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">JingWen Fan&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4498, Total Commits  (last year) : 5887, Total PRs: 169, Total Issues: 62, Contributed to (last year): 43</desc>
+        <desc id="descId">Total Stars Earned: 4500, Total Commits  (last year) : 5893, Total PRs: 169, Total Issues: 62, Contributed to (last year): 43</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 12.897686683405212;
+        stroke-dashoffset: 12.897281783949312;
       }
     }
   
